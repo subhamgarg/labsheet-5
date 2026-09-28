@@ -1,0 +1,5 @@
+print("Reinforcement Learning Comparative Report")
+print("1. Q-Learning: simple tabular method for discrete state/action spaces.")
+print("2. DQN: neural-network approximation suitable for larger/continuous state spaces.")
+print("3. Compare reward, convergence, training time, memory, and stability.")
+print("4. Record experimental values from programs 12-14, 24, 31, and 33.")
